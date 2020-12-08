@@ -8,4 +8,3 @@ The book can download at https://zh.b-ok.cc/book/3384619/151acf?dsource=recommen
 The entire warehouse code comes from this book.
 The original book uses python 2.7, my code is python 3.6+, and the numpy, pandas, and other libraries use newer versions.
 
-Codes can be view at `master` branch
