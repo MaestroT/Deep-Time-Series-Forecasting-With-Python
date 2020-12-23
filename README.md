@@ -25,6 +25,7 @@ The original book uses python 2.7, my code is python 3.6+, and the numpy, pandas
 
 
 Main libraries used in this repo:
+
 Here I just provide the version I use, some lower versions of the library may also be able to run the code, others may require appropriate adjustments to some of the function names or parameter names.
 |  library   | version  |
 |  ----  | ----  |
