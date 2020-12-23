@@ -22,3 +22,14 @@ The original book uses python 2.7, my code is python 3.6+, and the numpy, pandas
 |Chapter 10| Gated Recurrent Unit  门控循环单元|
 |Chapter 11| Forecasting Multiple Outputs  预测多个输出|
 |Chapter 12| Strategies to Build Superior Models  构建卓越模型的策略|
+
+
+Main libraries used in this repo:
+Here I just provide the version I use, some lower versions of the library may also be able to run the code, others may require appropriate adjustments to some of the function names or parameter names.
+|  library   | version  |
+|  ----  | ----  |
+|keras|2.4.3|
+|tensorflow|2.3.1|
+|sklearn|0.23.2|
+|pandas|1.1.4|
+|numpy|1.18.5|
